@@ -1,7 +1,8 @@
 # Course-Project-
 A project for a course work. The project aim is to get acquainted with Unity for 2D games
 
-This is a distribution version of a game. you can start it by opening "Light in Dark.exe"
+This is a distribution version of a game.
+To start the game. please unarchive UnityPlayer_dll.rar and then open"Light in Dark.exe"
 
 Credits for used music:
 
